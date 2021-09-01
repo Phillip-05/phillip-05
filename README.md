@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p style="height: 30em">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phillip-05&show_icons=true&locale=en&layout=compact" alt="phillip-05" />
-  <br>
+  </p>
+  <p style="height: 30em">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillip-05&show_icons=true&locale=en" alt="phillip-05" />
 </p>
